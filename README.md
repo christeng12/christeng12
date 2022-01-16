@@ -8,7 +8,7 @@ My name is Chris(he/him/his) and I'm a student at Washington University in St. L
 
 ### 📫 How to reach me ...
 
-- Email: [c.s.teng@wustl.edu](c.s.teng@wustl.edu)
+- Email: [c.s.teng@wustl.edu](mailto:c.s.teng@wustl.edu)
 - Linkedin: [@christopherteng](https://www.linkedin.com/in/christopher-teng-384b151b4/)
 
 ### 🔭 In the past I've worked on ...
