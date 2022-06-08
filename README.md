@@ -3,7 +3,6 @@
 My name is Chris(he/him/his) and I'm a student at Washington University in St. Louis. I'm currently pursuing a degree in Biomedical Engineering and Computer Science. When I have the time, I like to rock climb or cook. I love meeting new people so please feel free to reach out and let's get to know each other!
 
 ### 🌱 I’m currently working on ...
-- Software development internship project at [Optum Analytics](https://www.optum.com/)
 - Neuroscience research at [Dr. Ilya E. Monosov's Lab](https://neuroscience.wustl.edu/people/ilya-monosov-phd/) at the WashU Medical School. 
 
 ### 📫 How to reach me ...
